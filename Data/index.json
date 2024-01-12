@@ -79,23 +79,35 @@
     
         "Educations": [
           {
-            "degree": "Grade 12",
-            "institution": "Sinenjongo High School",
+            "highest grade passed": "Grade 12",
+            "school": "Sinenjongo High School",
             "description": "Maths&Physics",
-            "date": "2017 - 2021"
+            "duration": "2017 - 2021"
           },
           {
-            "degree": "Web Development",
+            "course": "Web Development",
             "institution": "Life Choices Academy",
             "description": "Coding",
-            "date": "2023 - present"
+            "duration": "2023 - present"
           }
         ],
         
         "Skills": [
-          "HTML",
-          "CSS",
-          "JavaScript",
-          "Vue.js"
+          {
+            "name": "HTML",
+            "imgURL": "https://i.postimg.cc/MKrg7JS1/html1.jpg"
+          },
+          {
+            "name": "CSS",
+            "imgURL": "https://i.postimg.cc/tCfm1d35/css1.jpg"
+          },
+          {
+            "name": "Javascript",
+            "imgURL": "https://i.postimg.cc/Zqz7HTDv/js1.png"
+          },
+          {
+            "name": "Vue.js",
+            "imgURL": "https://i.postimg.cc/j2BQjXpn/vue2.png"
+          }
         ]
       }
