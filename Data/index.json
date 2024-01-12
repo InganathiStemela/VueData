@@ -1,0 +1,101 @@
+{
+    "Testimonials": [
+        {
+            "image": "https://imgur.com/yMtqgDk",
+            "name":"Coach Aaron Ntlanganiso",
+            "description": "I have known Inganathi for many years starting when she was beginning her netball career at the age of 9 years, she has been my daughter since then. Inganathi is a determined, efficient, detail-orientated and respectfull player. She has an excellent rapport with people of all ages I know that because of how she treats people that have joined the team after her.Inganathi can communicate very well with others and she takes her job seriously with no disruption. In summary, I highly recommend Inganathi for any position that she may seek to pursue as she will be a valuable asset."
+    
+        },
+        {
+            "image": "https://imgur.com/i5AH7rz",
+            "name":"Mr Matthew Dean Brown",
+            "description": "Since meeting Inganathi I've come to appreciate all of her hard work. Inganathi has shown me her abilities of trying to understand and learn new stuff  as it is her first time doing something related to coding. She is valuable as she has the willingness ability of doing anything coming her way."
+    
+        },
+        {
+            "image": "https://cdn-thumbs.imagevenue.com/19/5c/8d/ME17GN63_t.jpg",
+            "name":"Azasiphe Ndoro",
+            "description": "For the past month meeting with Inganathi have been great. She is a quiet classmate but knows her grounds, she is always willing to help even if it's her first time seeing the problem ahead of us. Inganathi does her work and submits her projects on time. She gives everyone around her respect. And I trust that she is the best candidate in any positon with her skills."
+    
+        },
+        {
+            "image": "https://imgur.com/B8XxdJm",
+            "name":"Jason Septemper",
+            "description": "Inganathi is an outstanding individual ,who is always calm and hard working. She is well customed when it comes to working with others and always does her best in her work and for that I admire her."
+    
+        },
+        {
+            "image": "https://imgur.com/NiE36BV",
+            "name":"Heather Mtuedwa",
+            "description": "Inganathi She has demonstrated impeccable energy for the assignments of this coding course in the few time that I have known her. Inganathi shows initiative in completing tasks quickly and effectively. One of her strongest suit is her ability to articulate things to the team. The ideal colleague for a group setting."
+    
+        },
+        {
+            "image": "https://i.postimg.cc/SQc2MSPc/gcetywa-home-image.jpg",
+            "name":"Unathi Gcetywa",
+            "description": "Inganathi has a remarkable ability to quickly grasp complex concepts and apply them in practical scenarios."
+    
+        }
+    ],
+    "Projects": [
+        {
+            "name": "Calculator",
+            "imgUrl": "https://freeimage.host/i/JYJtkWF",
+            "github": "https://github.com/InganathiStemela/keyboard.git",
+            "vercel": "https://vercel.com/"      
+        },
+        {
+            "name": "Keyboard",
+            "imgUrl": "https://freeimage.host/i/JYJtEiu",
+            "github": "https://github.com/InganathiStemela/keyboard.git",
+            "vercel": "https://vercel.com/ "      
+        },
+        {
+            "name": "Ecommerce",
+            "imgUrl": "https://freeimage.host/i/JYJDLkQ",
+            "github": "https://github.com/InganathiStemela/Thumie-s-Tupperware-Shop.git",
+            "vercel": "https://vercel.com/"      
+        },
+        {
+            "name": "Temperature Convertor",
+            "imgUrl": "https://freeimage.host/i/JYJt4JR",
+            "github": "https://github.com/InganathiStemela/temperature.git",
+            "vercel": "https://vercel.com/inganathis-projects/temperature"      
+        },
+        {
+            "name": "Website",
+            "imgUrl": "https://freeimage.host/i/JYJD8IS",
+            "github": "https://github.com/InganathiStemela/inga-sTupperwareStore.git",
+            "vercel": "https://vercel.com/inganathis-projects/inga-s-tupperware-store"      
+        },
+        {
+            "name": "BMI",
+            "imgUrl": "https://freeimage.host/i/JYJDkp2",
+            "github": "https://github.com/InganathiStemela/bmi.git",
+            "vercel": "https://vercel.com/inganathis-projects/bmi"      
+        }
+
+    ],
+    
+        "Educations": [
+          {
+            "degree": "Grade 12",
+            "institution": "Sinenjongo High School",
+            "description": "Maths&Physics",
+            "date": "2017 - 2021"
+          },
+          {
+            "degree": "Web Development",
+            "institution": "Life Choices Academy",
+            "description": "Coding",
+            "date": "2023 - present"
+          }
+        ],
+        
+        "Skills": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Vue.js"
+        ]
+      }
