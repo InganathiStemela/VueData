@@ -7,7 +7,7 @@
     
         },
         {
-            "image": "https://imgur.com/i5AH7rz",
+            "image": "https://i.ibb.co/YQpDzwg/matthew.png",
             "name":"Mr Matthew Dean Brown",
             "description": "Upon meeting Inganathi, I appreciate her hard work, ability to learn new things, and willingness to do anything as she's new to coding."
     
@@ -79,10 +79,10 @@
     
         "Educations": [
           {
-            "highest grade passed": "Grade 12",
-            "school": "Sinenjongo High School",
-            "description": "Maths&Physics",
-            "duration": "2017 - 2021"
+            "course1": "Grade 12",
+            "institution1": "Sinenjongo High School",
+            "description1": "Maths&Physics",
+            "duration1": "2017 - 2021"
           },
           {
             "course": "Web Development",
