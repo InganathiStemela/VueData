@@ -40,37 +40,37 @@
     "Projects": [
         {
             "name": "Calculator",
-            "imgUrl": "https://freeimage.host/i/JYJtkWF",
+            "imgUrl": "https://i.ibb.co/MnZ4qKC/vue-2.jpg",
             "github": "https://github.com/InganathiStemela/keyboard.git",
             "vercel": "https://vercel.com/"      
         },
         {
             "name": "Keyboard",
-            "imgUrl": "https://freeimage.host/i/JYJtEiu",
+            "imgUrl": "https://i.ibb.co/FqDbY6s/vue-1.webp",
             "github": "https://github.com/InganathiStemela/keyboard.git",
             "vercel": "https://vercel.com/ "      
         },
         {
             "name": "Ecommerce",
-            "imgUrl": "https://freeimage.host/i/JYJDLkQ",
+            "imgUrl": "https://i.ibb.co/WP47Wt5/vue-6.webp",
             "github": "https://github.com/InganathiStemela/Thumie-s-Tupperware-Shop.git",
             "vercel": "https://vercel.com/"      
         },
         {
             "name": "Temperature Convertor",
-            "imgUrl": "https://freeimage.host/i/JYJt4JR",
+            "imgUrl": "https://i.ibb.co/DgRfgkd/vue-3.png",
             "github": "https://github.com/InganathiStemela/temperature.git",
             "vercel": "https://vercel.com/inganathis-projects/temperature"      
         },
         {
             "name": "Website",
-            "imgUrl": "https://freeimage.host/i/JYJD8IS",
+            "imgUrl": "https://i.ibb.co/LP48Wvg/vue-5.png",
             "github": "https://github.com/InganathiStemela/inga-sTupperwareStore.git",
             "vercel": "https://vercel.com/inganathis-projects/inga-s-tupperware-store"      
         },
         {
             "name": "BMI",
-            "imgUrl": "https://freeimage.host/i/JYJDkp2",
+            "imgUrl": "https://i.ibb.co/JH7TMKd/vue-4.jpg",
             "github": "https://github.com/InganathiStemela/bmi.git",
             "vercel": "https://vercel.com/inganathis-projects/bmi"      
         }
@@ -79,10 +79,10 @@
     
         "Educations": [
           {
-            "course1": "Grade 12",
-            "institution1": "Sinenjongo High School",
-            "description1": "Maths&Physics",
-            "duration1": "2017 - 2021"
+            "course": "Grade 12",
+            "institution": "Sinenjongo High School",
+            "description": "Maths&Physics",
+            "duration": "2017 - 2021"
           },
           {
             "course": "Web Development",
@@ -95,19 +95,19 @@
         "Skills": [
           {
             "name": "HTML",
-            "imgURL": "https://i.postimg.cc/MKrg7JS1/html1.jpg"
+            "imgURL": "https://i.ibb.co/F6XXcpR/html1.jpg"
           },
           {
             "name": "CSS",
-            "imgURL": "https://i.postimg.cc/tCfm1d35/css1.jpg"
+            "imgURL": "https://i.ibb.co/8zHJM4X/css1.jpg"
           },
           {
             "name": "Javascript",
-            "imgURL": "https://i.postimg.cc/Zqz7HTDv/js1.png"
+            "imgURL": "https://i.ibb.co/Hq8MPsL/js1.png"
           },
           {
             "name": "Vue.js",
-            "imgURL": "https://i.postimg.cc/j2BQjXpn/vue2.png"
+            "imgURL": "https://i.ibb.co/D44JMLp/vue1.png"
           }
         ]
       }
