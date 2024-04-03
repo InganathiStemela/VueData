@@ -91,23 +91,39 @@
             "duration": "2023 - present"
           }
         ],
+        "Work Experience": [
+          {
+            "position": "Intern",
+            "company": "Life Choices Academy",
+            "duration": "2024 - present"
+          }
+
+        ],
         
         "Skills": [
           {
             "name": "HTML",
-            "imgURL": "https://i.ibb.co/F6XXcpR/html1.jpg"
+            "imgURL": "https://i.postimg.cc/x1ZhxRxZ/html-image.png"
           },
           {
             "name": "CSS",
-            "imgURL": "https://i.ibb.co/8zHJM4X/css1.jpg"
+            "imgURL": "https://i.postimg.cc/mDyTqxG2/css1.jpg"
           },
           {
             "name": "Javascript",
-            "imgURL": "https://i.ibb.co/Hq8MPsL/js1.png"
+            "imgURL": "https://i.postimg.cc/k41pDwQv/js1.png"
           },
           {
             "name": "Vue.js",
-            "imgURL": "https://i.ibb.co/D44JMLp/vue1.png"
+            "imgURL": "https://i.postimg.cc/sX32xsY7/image.png"
+          },
+          {
+            "name": "MYSQL",
+            "imgURL": "https://i.postimg.cc/tJnnq1g4/mysql-original-wordmark-icon-2048x1064-jfbaqrzh.png"
+          },
+          {
+            "name": "Node.js",
+            "imgURL": "https://i.postimg.cc/N0t6dxj7/nodejs.png"
           }
         ]
       }
