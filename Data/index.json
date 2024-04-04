@@ -89,15 +89,13 @@
             "institution": "Life Choices Academy",
             "description": "Coding",
             "duration": "September 2023 - March 2024"
-          }
-        ],
-        "workExperience": [
+          },
           {
-            "position": "Intern",
-            "company": "Life Choices Academy",
+            "course": "Work Experience",
+            "institution": "Life Choices Academy",
+            "description": "Intern",
             "duration": "2024 - present"
           }
-
         ],
         
         "Skills": [
