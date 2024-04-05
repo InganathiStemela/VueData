@@ -57,7 +57,7 @@
             "vercel": "https://vercel.com/"      
         },
         {
-            "name": "Temperature Convertor",
+            "name": "Temp Convertor",
             "imgUrl": "https://i.ibb.co/DgRfgkd/vue-3.png",
             "github": "https://github.com/InganathiStemela/temperature.git",
             "vercel": "https://vercel.com/inganathis-projects/temperature"      
